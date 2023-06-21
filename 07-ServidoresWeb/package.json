@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server-http.js",
+    "dev:http": "node server-http-dev.js",
+    "star:express": 
+    
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  },
+  
