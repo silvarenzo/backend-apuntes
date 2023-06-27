@@ -1,4 +1,4 @@
-mport express from 'express';
+import express from 'express';
 import morgan from 'morgan';
 import { errorHandler } from './middlewares/errorHandler';
 import userRouter from './routes/user.router.js';
